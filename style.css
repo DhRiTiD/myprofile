@@ -28,17 +28,6 @@
     color: #333;
 }
 
-.header h1::after{
-    content: '';
-    width: 5.85%;
-    height: 2.45px;
-    display: inline-block;
-    background-color: var(--purple);
-    position: absolute;
-    left: 110px;
-    bottom: 91%;
-}
-
 span {
     color: var(--purple)
 }
@@ -51,11 +40,6 @@ nav ul {
     display: flex;
     list-style: none;
     font-weight: 550;
-}
-
-nav ul li {
-    margin : 10px;
-    padding: 5px
 }
 
 nav ul li a{ 
@@ -93,7 +77,7 @@ nav ul li a{
 .about-txt {
     font-family: var(--noto);
     font-size: larger;
-    margin-left: 60px;
+    margin-left: 30px;
     margin-top: 20px;
     color: #333;
 }
