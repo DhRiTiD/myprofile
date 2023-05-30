@@ -176,11 +176,11 @@ nav ul li a{
 }
 
 .title:hover::before{
-    width: 40%;
+    width: 25%;
 }
 
 .title:hover::after{
-    width: 40%;
+    width: 25%;
 }
 
 .container{
