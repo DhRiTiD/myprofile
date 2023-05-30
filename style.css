@@ -158,7 +158,7 @@ nav ul li a{
 
 .title:before{
     content: '';
-    width: 20%;
+    width: 10%;
     height: 3px;
     display: inline-block;
     background-color: var(--purple);
@@ -168,7 +168,7 @@ nav ul li a{
 }
 .title:after{
     content: '';
-    width: 20%;
+    width: 10%;
     height: 3px;
     display: inline-block;
     background-color: var(--purple);
