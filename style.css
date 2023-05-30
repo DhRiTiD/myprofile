@@ -30,8 +30,8 @@
 
 .header h1::after{
     content: '';
-    width: 5.65%;
-    height: 2.45px;
+    width: 5.75%;
+    height: 3px;
     display: inline-block;
     background-color: var(--purple);
     position: absolute;
